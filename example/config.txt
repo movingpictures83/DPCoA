@@ -1,0 +1,2 @@
+Prefix plugins/DPCoA/example
+Plugin DPCoA inputfile parameters.txt outputfile dpcoa

@@ -1,0 +1,4 @@
+otufile	plugins/DPCoA/example/asv_abund.norm.transpose.csv
+mapping	plugins/DPCoA/example/asv_map.csv
+tree	plugins/DPCoA/example/asv_tax.csv
+column	Description
